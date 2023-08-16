@@ -1,8 +1,97 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <br/>
+
+  <h1><b>Hello React Front End</b></h1>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [💻 Rails API](#rails-api)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello React Front End] <a name="about-project"></a>
+
+
+This is a react app...
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+- **React**
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[create react app]**
+- **[set up linters]**
+- **[Components]**
+- **[Events]**
+- **[Refactor with hooks]**
+- **[Route with React Route]**
+- **[Connect Redux store]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+npm install
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/Kwaku28/hello-react-front-end.git
+```
+
+## 💻 Rails API <a name="rails-api"></a>
+
+```sh
+  https://github.com/Kwaku28/hello-rails-back-end
+```
+
+# Available Scripts
 
 In the project directory, you can run:
 
@@ -39,32 +128,55 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- AUTHORS -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👥 Authors <a name="lawrence"></a>
 
-### Code Splitting
+👤 **Lawrence Amoafo**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GitHub: [@Kwaku28](https://github.com/Kwaku28)
+- LinkedIn: [lawrenceamoafo](https://linkedin.com/in/lawrence-amoafo-appoh)
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- FUTURE FEATURES -->
 
-### Making a Progressive Web App
+## 🔭 Future Features <a name="future-features"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [ ] **[Tests]**
+- [ ] **[Styling]**
+- [ ] **[Full website]**
 
-### Advanced Configuration
+<!-- CONTRIBUTING -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🤝 Contributing <a name="contributing"></a>
 
-### Deployment
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to check the [issues page](https://github.com/Kwaku28/hello-react-front-end/issues).
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a **STAR**
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank:
+- All Micronauts
+- My team
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
