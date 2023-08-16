@@ -11,7 +11,7 @@ export const fetchGreeting = createAsyncThunk(
   'greeting/fetchGreeting',
   async () => {
     try {
-      const response = await axios.get('http://127.0.0.1:3000');
+      const response = await axios.get('http://127.0.0.1:3000/greetings/random_greeting');
       return response.data;
     } catch (error) {
       return error.response.data;
